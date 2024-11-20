@@ -20,4 +20,4 @@ BOT_USERNAME = "teraboxdown_bot"
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
 FORCE_LINK = "@RoldexVerse"
 
-PUBLIC_EARN_API = ""  # https://publicearn.com/api
+PUBLIC_EARN_API = "https://api.shareus.io/7SoRin98O4Z8veQDs4MOmlz6Jge2"  # https://publicearn.com/api
